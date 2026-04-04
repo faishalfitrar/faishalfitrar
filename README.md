@@ -91,11 +91,11 @@ faishal = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faishalfitrar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=faishalfitrar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/faishalfitrar)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalfitrar&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faishalfitrar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/faishalfitrar)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=faishalfitrar&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=faishalfitrar&theme=tokyonight&hide_border=true)](https://github.com/faishalfitrar)
 
 </div>
 
