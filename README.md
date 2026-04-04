@@ -1,32 +1,31 @@
 <div align="center">
 
-# 👋 Halo, saya Faishal Fitra Ramadhan!
+# Hi, I'm Faishal Fitra Ramadhan 👋
 
-### 🎓 S1 Matematika · 💻 Full Stack Developer · 📊 Data Science Enthusiast
+### 📊 Data Analyst · 🤖 Machine Learning Enthusiast · 🎓 Mathematics Graduate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faishalfitrar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faishalfitrar)
 [![GitHub](https://img.shields.io/badge/GitHub-faishalfitrar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faishalfitrar)
 [![Email](https://img.shields.io/badge/Email-faishalfitraramadhan01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faishalfitraramadhan01@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Sumatera_Selatan-Indonesia-green?style=for-the-badge)](https://github.com/faishalfitrar)
 
 </div>
 
 ---
 
-## 🙋‍♂️ Tentang Saya
+## 🙋‍♂️ About Me
 
-Lulusan **S1 Matematika Universitas Sriwijaya** dengan IPK **3.84/4.00**, berpengalaman dalam pengembangan perangkat lunak dan analisis data. Saya memiliki ketertarikan kuat pada **Machine Learning**, **Web Development**, dan **Data Science** — terbukti dari berbagai proyek nyata dan publikasi ilmiah.
+I'm a **Mathematics graduate from Universitas Sriwijaya** (GPA 3.84/4.00) with a strong foundation in data analysis, machine learning, and software development. My academic background in computational mathematics — covering algorithms, artificial intelligence, neural networks, and data mining — gives me a solid analytical approach to solving real-world data problems.
 
-Selain bidang teknis, saya juga memiliki rekam jejak kepemimpinan yang solid, pernah memimpin organisasi dengan 200+ anggota aktif dan mengelola berbagai program strategis skala nasional.
+I enjoy turning raw data into meaningful insights and building intelligent systems that make an impact.
 
 ```python
 faishal = {
-    "lokasi"     : "Sumatera Selatan, Indonesia",
-    "pendidikan" : "S1 Matematika, Universitas Sriwijaya (IPK 3.84)",
-    "keahlian"   : ["Web Development", "Data Science", "Machine Learning"],
-    "bahasa"     : ["Python", "PHP", "C++", "JavaScript"],
-    "sedang_belajar": ["Deep Learning", "Computer Vision", "Cloud Computing"],
-    "fun_fact"   : "Matematikawan yang suka ngoding 🧮💻"
+    "location"      : "South Sumatra, Indonesia",
+    "education"     : "B.Sc. Mathematics, Universitas Sriwijaya (GPA: 3.84)",
+    "focus"         : ["Data Analysis", "Machine Learning", "Predictive Modelling"],
+    "languages"     : ["Python", "SQL", "PHP", "C++", "JavaScript"],
+    "currently_learning" : ["Deep Learning", "Computer Vision", "Cloud for Data"],
+    "fun_fact"      : "A mathematician who speaks fluent Python 🧮🐍"
 }
 ```
 
@@ -34,84 +33,57 @@ faishal = {
 
 ## 🛠️ Tech Stack
 
-**Languages:**
+**Languages & Query:**
 
 ![Python](https://skillicons.dev/icons?i=python)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PHP](https://skillicons.dev/icons?i=php)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
 
-**Frameworks & Tools:**
-
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-
-**Data & ML:**
+**Data & Machine Learning:**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 🏆 Prestasi & Sertifikasi
+## 🏆 Achievements & Certifications
 
-| 🥇 | Penghargaan | Tahun |
+| | Award | Year |
 |---|---|---|
-| 🥇 | **Gold Medal** – Youth International Science Fair (YISF), Kategori Life Science | 2024 |
-| 🏆 | **Juara 1** – Pemilihan Mahasiswa Berprestasi FMIPA Universitas Sriwijaya | 2024 |
-| 📜 | **Kompetensi** – Studi Independen Batch 6 Full Stack Developer, NF Academy | 2024 |
-| 🥉 | **Juara 3** – National Business Competition, Bidang Perdagangan dan Jasa | 2023 |
+| 🥇 | **Gold Medal** – Youth International Science Fair (YISF), Life Science Category | 2024 |
+| 🏆 | **1st Place** – Best Student Award, Faculty of Mathematics & Natural Sciences, UNSRI | 2024 |
+| 📜 | **Competency Certificate** – Full Stack Developer, NF Academy (Studi Independen Batch 6) | 2024 |
+| 🥉 | **3rd Place** – National Business Competition, Trade & Services Category | 2023 |
 
 ---
 
-## 🚀 Proyek Unggulan
+## 🚀 Featured Projects
 
-### 🧠 Segmentasi Tumor Otak dengan Deep Learning
-> Segmentasi Tumor Otak pada MRI menggunakan kombinasi arsitektur **Volumetric U-Net** dan **Transformer**
+### 🧠 Brain Tumor Segmentation using Deep Learning
+> MRI-based brain tumor segmentation using a combination of **Volumetric U-Net** and **Transformer** architecture
 
-`Python` `Deep Learning` `Computer Vision` `Medical Imaging`
-
----
-
-### 📊 Klasifikasi Kanker Payudara – SVM vs Regresi Logistik
-> Perbandingan performa algoritma **Support Vector Machine** dan **Regresi Logistik** dalam klasifikasi kanker payudara
-
-`Python` `Machine Learning` `Scikit-learn` `EDA`
+`Python` `Deep Learning` `Computer Vision` `Medical Imaging` `U-Net` `Transformer`
 
 ---
 
-### 🌐 Traveking – Website Sistem Pemesanan Wisata & Hotel
-> Platform pemesanan wisata dan hotel berbasis web dengan fitur lengkap
+### 📊 Breast Cancer Classification — SVM vs Logistic Regression
+> Performance comparison of **Support Vector Machine** and **Logistic Regression** algorithms for breast cancer classification with full EDA pipeline
 
-`Laravel` `PHP` `JavaScript` `HTML` `CSS` `MySQL`
-
----
-
-### 📚 E-Read – Website Perpustakaan Digital
-> Sistem perpustakaan digital yang memudahkan akses dan manajemen koleksi buku
-
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+`Python` `Scikit-learn` `Pandas` `Machine Learning` `EDA` `Predictive Modelling`
 
 ---
 
-### 🔐 Sistem Enkripsi DES & Playfair Cipher
-> Implementasi algoritma enkripsi DES dan Playfair Cipher dengan pembuatan kunci menggunakan Transposisi Kolom
+### 🩺 Cholesterol Expert System — Certainty Factor
+> Console-based expert system to diagnose cholesterol type (HDL/LDL) using the **Certainty Factor** method with 8 clinical symptoms
 
-`C++` `Kriptografi`
-
----
-
-### 🩺 Sistem Pakar Penyakit Kolesterol
-> Program sistem pakar berbasis **Certainty Factor** untuk diagnosis kolesterol
-
-`C++` `Expert System`
+`C++` `Expert System` `Artificial Intelligence`
 
 ---
 
@@ -129,40 +101,17 @@ faishal = {
 
 ---
 
-## 🤝 Kepemimpinan & Organisasi
-
-- 👑 **Ketua Umum** – Himpunan Mahasiswa Matematika FMIPA UNSRI *(memimpin 200+ mahasiswa & 25+ program kerja)*
-- 🏛️ **Ketua Cabang** – Ikatan Keluarga Pelajar Pulau Belitong, Palembang *(76 anggota aktif)*
-- 📋 **Anggota Badan Pengawas** – IHMSI Wilayah I *(mengawasi 12 program kerja, 6 universitas)*
-
----
-
-## 📫 Mari Terhubung!
+## 📫 Let's Connect!
 
 <div align="center">
 
-Saya selalu terbuka untuk diskusi, kolaborasi proyek, atau sekadar ngobrol soal tech & data! 🚀
+I'm open to data analyst roles, collaboration on data/ML projects, or just a good conversation about data! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/Kirim_Pesan_di_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faishalfitrar)
-[![Email](https://img.shields.io/badge/Kirim_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faishalfitraramadhan01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faishalfitrar)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faishalfitraramadhan01@gmail.com)
 
 ---
 
-*⭐ Jangan lupa kasih star kalau proyeknya bermanfaat!*
+*⭐ Star a repo if you find it useful!*
 
 </div>
-
-<!--
-**faishalfitrar/faishalfitrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
