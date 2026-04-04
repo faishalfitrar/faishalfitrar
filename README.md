@@ -2,11 +2,11 @@
 
 # Hi, I'm Faishal Fitra Ramadhan 👋
 
-### 📊 Data Analyst & Data Science · 🤖 Machine Learning Enthusiast · 🎓 Mathematics Graduate
+### 📊 Data Analyst · 🤖 Machine Learning Enthusiast · 🎓 Mathematics Graduate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-faishalfitrar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faishalfitrar)
-[![GitHub](https://img.shields.io/badge/GitHub-faishalfitrar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faishalfitrar)
-[![Email](https://img.shields.io/badge/Email-faishalfitraramadhan01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faishalfitraramadhan01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faishalfitrar)
+[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faishalfitrar)
+[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faishalfitraramadhan01@gmail.com)
 
 </div>
 
@@ -67,23 +67,30 @@ faishal = {
 ## 🚀 Featured Projects
 
 ### 🧠 Brain Tumor Segmentation using Deep Learning
-> MRI-based brain tumor segmentation using a combination of **Volumetric U-Net** and **Transformer** architecture
+> MRI-based brain tumor segmentation using a combination of **Volumetric U-Net** and **Transformer** (ViT) architecture. ViT is used in the encoder to capture global spatial relationships, while the decoder maintains the U-Net structure to preserve local spatial details.
 
 `Python` `Deep Learning` `Computer Vision` `Medical Imaging` `U-Net` `Transformer`
+
+[![Read Publication](https://img.shields.io/badge/📄_Read_Publication-UNSRI_Repository-blue?style=flat-square)](http://repository.unsri.ac.id/174025/)
 
 ---
 
 ### 📊 Breast Cancer Classification — SVM vs Logistic Regression
-> Performance comparison of **Support Vector Machine** and **Logistic Regression** algorithms for breast cancer classification with full EDA pipeline
+> Performance comparison of **Support Vector Machine** and **Logistic Regression** algorithms for breast cancer classification with full EDA pipeline. Published in *Jurnal Kecerdasan Buatan dan Teknologi Informasi*, Vol. 4 No. 1, 2025.
 
 `Python` `Scikit-learn` `Pandas` `Machine Learning` `EDA` `Predictive Modelling`
+
+[![Read Publication](https://img.shields.io/badge/📄_Read_Publication-JKBTI_Journal-blue?style=flat-square)](https://ojs.ninetyjournal.com/index.php/JKBTI/article/view/191)
 
 ---
 
 ### 🩺 Cholesterol Expert System — Certainty Factor
-> Console-based expert system to diagnose cholesterol type (HDL/LDL) using the **Certainty Factor** method with 8 clinical symptoms
+> Console-based expert system to diagnose cholesterol type (HDL/LDL) using the **Certainty Factor** method with 8 clinical symptoms. Published in *JIK: Jurnal Ilmu Komputer*, Vol. 9 No. 01, 2024.
 
 `C++` `Expert System` `Artificial Intelligence`
+
+[![View Repo](https://img.shields.io/badge/💻_View_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/faishalfitrar/projek)
+[![Read Publication](https://img.shields.io/badge/📄_Read_Publication-JIK_Journal-blue?style=flat-square)](https://ejurnal.esaunggul.ac.id/index.php/JIK/article/view/8139)
 
 ---
 
