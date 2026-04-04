@@ -2,12 +2,10 @@
 
 # Hi, I'm Faishal Fitra Ramadhan 👋
 
-### 📊 Data Analyst · 🤖 Machine Learning Enthusiast · 🎓 Mathematics Graduate
+### 📊 Data Analyst & Data Science · 🤖 Machine Learning Enthusiast · 🎓 Mathematics Graduate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faishalfitrar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faishalfitrar)
-<br>
 [![GitHub](https://img.shields.io/badge/GitHub-faishalfitrar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faishalfitrar)
-<br>
 [![Email](https://img.shields.io/badge/Email-faishalfitraramadhan01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faishalfitraramadhan01@gmail.com)
 
 </div>
