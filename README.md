@@ -71,6 +71,7 @@ faishal = {
 
 `Python` `Deep Learning` `Computer Vision` `Medical Imaging` `U-Net` `Transformer`
 
+[![View Repo](https://img.shields.io/badge/💻_View_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/faishalfitrar/unetr-mri-segmentation)
 [![Read Publication](https://img.shields.io/badge/📄_Read_Publication-UNSRI_Repository-blue?style=flat-square)](http://repository.unsri.ac.id/174025/)
 
 ---
