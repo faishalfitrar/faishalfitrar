@@ -80,6 +80,7 @@ faishal = {
 
 `Python` `Scikit-learn` `Pandas` `Machine Learning` `EDA` `Predictive Modelling`
 
+[![View Repo](https://img.shields.io/badge/💻_View_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/faishalfitrar/svm-alr-breast-cancer-classification)
 [![Read Publication](https://img.shields.io/badge/📄_Read_Publication-JKBTI_Journal-blue?style=flat-square)](https://ojs.ninetyjournal.com/index.php/JKBTI/article/view/191)
 
 ---
@@ -89,7 +90,7 @@ faishal = {
 
 `C++` `Expert System` `Artificial Intelligence`
 
-[![View Repo](https://img.shields.io/badge/💻_View_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/faishalfitrar/projek)
+[![View Repo](https://img.shields.io/badge/💻_View_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/faishalfitrar/sistem-pakar-kolesterol)
 [![Read Publication](https://img.shields.io/badge/📄_Read_Publication-JIK_Journal-blue?style=flat-square)](https://ejurnal.esaunggul.ac.id/index.php/JIK/article/view/8139)
 
 ---
